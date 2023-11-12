@@ -10,11 +10,11 @@ const CONFIG = {
   ],
 
   // 英雄区(首页顶部大卡)
-  HERO_TITLE_1: '分享编程',
-  HERO_TITLE_2: '与思维认知',
+  HERO_TITLE_1: '分享高分',
+  HERO_TITLE_2: '推荐影视作品',
   HERO_TITLE_3: '@shangkouyou',
-  HERO_TITLE_4: '新版上线',
-  HERO_TITLE_5: '期待你的光临',
+  HERO_TITLE_4: '现已推出',
+  HERO_TITLE_5: '期待你的欣赏',
   HERO_TITLE_LINK: 'https://bk.aile.eu.org/',
 
   // 英雄区显示三个置顶分类
