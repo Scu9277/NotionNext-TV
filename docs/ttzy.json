@@ -16,6 +16,15 @@
         "爽文短剧",
         "伦理"
       ]
+    },
+    {
+      "key": "yyzy2",
+      "name": "yyzy2",
+      "type": 1,
+      "api": "https://cj2.yayazy.net/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     }
   ],
   "lives": [
